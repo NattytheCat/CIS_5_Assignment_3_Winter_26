@@ -51,4 +51,32 @@ Scores in reverse order:
 ```
 #include <iostream>
 #include <iomanip>   // for std::fixed and std::setprecision
+
 ```
+
+
+## My Updates! by Natalie
+
+## Student Information
+**Name:** Natalie Martinez
+**Course:** CIS 5
+**Assignment:** Week 3
+**Term:** Winter 2026
+
+## Introduction Video
+https://share.icloud.com/photos/0562qj69HF8APt-6jzPjESnJg
+
+## Video Walkthrough and Explanations
+https://share.icloud.com/photos/0609aShjl4nANAXAuO4ZcfxTw
+
+## Code Typing practice
+https://share.icloud.com/photos/0a9X4ELV2KxEH2vu0eGVaNKIA
+
+## Working Code Video
+https://share.icloud.com/photos/0cfa4mDk0vh968P_1ui-ZTVcw
+
+## ChatGpt Conversation
+https://chatgpt.com/share/697157a1-34bc-8002-a5b1-0b80b8a2043d
+
+
+
